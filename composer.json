@@ -24,6 +24,9 @@
     }
   ],
   "extra"      : {
-    "installer-name": "silverstripe-blog-search"
+    "installer-name": "silverstripe-blog-search",
+    "branch-aliase": {
+      "dev-master": "2.0.x-dev"
+    }
   }
 }
